@@ -1,12 +1,8 @@
-# Naukri Job Application Bot
+# Naukri Job Application Bot [Work in progress -Sundays Only]
 
 Automated job application bot for Naukri.com built with TypeScript and Playwright.
 
-
-https://github.com/user-attachments/assets/3a406422-2d99-4325-b052-43a93c2d576e
-
-
-
+https://github.com/user-attachments/assets/5da91c83-e8de-4974-acc1-f2e98a6061e3
 
 
 ## Features
