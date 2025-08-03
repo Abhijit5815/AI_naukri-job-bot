@@ -2,6 +2,13 @@
 
 Automated job application bot for Naukri.com built with TypeScript and Playwright.
 
+
+https://github.com/user-attachments/assets/3a406422-2d99-4325-b052-43a93c2d576e
+
+
+
+
+
 ## Features
 
 - 🔐 Secure login to Naukri.com
