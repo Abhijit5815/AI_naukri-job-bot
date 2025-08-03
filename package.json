@@ -1,0 +1,31 @@
+{
+  "name": "naukri-job-bot",
+  "version": "1.0.0",
+  "description": "Automated job application bot for Naukri.com",
+  "main": "dist/naukri-client.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/naukri-client.js",
+    "dev": "ts-node src/naukri-client.ts",
+    "setup": "ts-node src/setup.ts",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "naukri",
+    "job",
+    "automation",
+    "typescript"
+  ],
+  "author": "Abhijit Kasana",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "ollama": "^0.5.16",
+    "playwright": "^1.40.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}

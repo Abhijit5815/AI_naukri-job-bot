@@ -1,0 +1,8 @@
+{
+  "special-companies": {
+    "keywords": ["special"],
+    "aliases": ["special corp", "special inc", "special technologies"],
+    "subsidiaries": ["special solutions", "special services"],
+    "commonSuffixes": ["ltd", "pvt ltd", "inc", "corp"]
+  }
+}
